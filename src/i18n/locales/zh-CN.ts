@@ -3,7 +3,7 @@ import type { Translation } from './en';
 // 中文文案
 export const zhCN: Translation = {
   // 品牌与标语
-  brand: '图片工具',
+  brand: '映格图片工具',
   tagline: '免费在线图片压缩与格式转换工具 —— 支持 AVIF、WebP、JPEG、JPEG XL、PNG，浏览器本地处理，无需上传、保护隐私，支持批量压缩。',
 
   // 压缩选项
@@ -37,7 +37,7 @@ export const zhCN: Translation = {
 
   // 页脚（外链）
   footerBefore: '© 2026 · 免费在线图片处理｜由 ',
-  footerLink: '无辣',
+  footerLink: '映格',
   footerAfter: ' 提供',
 
   // 博客入口卡片（按当前语言指向 /blog/ 或 /en/blog/）
