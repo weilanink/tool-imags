@@ -1,7 +1,7 @@
 // 英文文案
 export const en = {
   // 品牌与标语
-  brand: 'Image Tools',
+  brand: 'Imags Tools',
   tagline: 'Free online image compression and format conversion — compress and convert images to AVIF, WebP, JPEG, JPEG XL, and PNG, 100% in your browser, private, no upload, with batch processing.',
 
   // 压缩选项
@@ -35,7 +35,7 @@ export const en = {
 
   // 页脚（外链）
   footerBefore: '© 2026 · Free Online Image Tools | Powered by ',
-  footerLink: 'Image Tools',
+  footerLink: 'Imags Tools',
   footerAfter: '',
 
   // 博客入口卡片（按当前语言指向 /blog/ 或 /en/blog/）
